@@ -1,0 +1,2 @@
+../App/hw/device/button.c:19:6:buttonInit	16	static
+../App/hw/device/button.c:26:6:buttonGetPressed	24	static
